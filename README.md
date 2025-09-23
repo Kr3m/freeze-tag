@@ -1,4 +1,4 @@
-# freeze-tag
+# freeze-tag ![freeze-tag](https://darrellbircsak.com/wp-content/uploads/2016/03/getfreeze.gif)
 Freeze Tag modification for Quake 2 and Quake 3
 
 All source code modifications from the original will have "freeze" comments above and below the change
